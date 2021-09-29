@@ -1,8 +1,5 @@
 ### Hi there 👋, I am Ting Hao.
 
-<!--
-**thtan0602/thtan0602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my FYP project related to assistive cobot and F1Tenth.
@@ -10,5 +7,3 @@ Here are some ideas to get you started:
 - 👯 I’m looking for a job related to robotics or autonomous vehicle (I'll be graduating during June 2022)
 - 📫 How to reach me: ttan051@e.ntu.edu.sg
 - 😄 Pronouns: He/ Him
-
--->
